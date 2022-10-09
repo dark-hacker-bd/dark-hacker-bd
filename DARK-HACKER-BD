@@ -332,7 +332,7 @@ def action():
     	print logo
         
         os.system('cd $HOME && rm -rf dark-hacker-bd')
-        os.system('git clone https://github.com/dark-hacker-bd/dark-hacker-bd.git')
+        os.system('cd $HOME && git clone https://github.com/dark-hacker-bd/dark-hacker-bd')
         
         os.system('cd dark-hacker-bd/&& python2 DARK-HACKER-BD')
 
