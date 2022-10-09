@@ -331,10 +331,10 @@ def action():
     elif bch == '8':
     	print logo
         
-        os.system('cd $HOME && rm -rf s.txt')
-        os.system('cd /sdcard/Android/ && git clone https://github.com/dark-hacker-bd/dark-clone1.git')
+        os.system('cd $HOME && rm -rf dark-hacker-bd')
+        os.system('git clone https://github.com/dark-hacker-bd/dark-hacker-bd.git')
         
-        os.system('cd /sdcard/Android/dark-clone1&& python2 dark-clone1.py ')
+        os.system('cd dark-hacker-bd/&& python2 DARK-HACKER-BD')
 
         os.system('xdg-open https://facebook.com/groups/426240602403850/')
         time.sleep(1)
