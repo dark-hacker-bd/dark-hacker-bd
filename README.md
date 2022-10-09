@@ -10,15 +10,6 @@
 </div>
 
 
-<div align="center">
-<b><i>THINK ABOUT DYNAMITE LITTLE BUT DENGROUS</i></b>
-</div>
-<h2><i> LOVE WITH ATTITUDE  : </i></h2>
-
-<li><i>JUST KEEP IT UP 🙃</li></i>
-<li><i>WORK FOR SUCCESS 😊</li></i>
-<li><i>LOVE MY MOM AND DAD 💞</li></i>
-<br>
 
 #
 <br>
