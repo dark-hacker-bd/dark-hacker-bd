@@ -5,8 +5,6 @@
 <img width="35" heigth="35" src="https://e.top4top.io/p_2473szxk50.png">
 </a>
 <br>
-<a href="https://linktr.ee/mao2116">
-<img width="50" heigth="35" src="https://raw.githubusercontent.com/mao2116/test/main/linktree.png">
 </a>
 <i></i>
 </div>
