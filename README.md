@@ -9,8 +9,7 @@
 <i></i>
 </div>
 
-<embed name="Hack/MUSIC" src="https://e.top4top.io/m_1967ahko90.mp3" loop="true" hidden="true" autostart="true">
-<br><br><br><br><br><br><br><br><br>
+
 <div align="center">
 <b><i>THINK ABOUT DYNAMITE LITTLE BUT DENGROUS</i></b>
 </div>
