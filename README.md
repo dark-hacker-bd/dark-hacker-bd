@@ -21,16 +21,7 @@
 <li><i>LOVE MY MOM AND DAD 💞</li></i>
 <br>
 
-### ℙℝ𝕆𝔽𝕀𝕃𝔼 𝕊𝕋𝔸𝕋𝕌𝕊 -:)
-
-<img align="center" src="https://metrics.lecoq.io/mao2116">
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mao2116&show_icons=true&theme=dark)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mao2116&layout=compact&theme=dark)
-
+#
 <br>
 <h4>
 <i>VISITORS :-)</i>
