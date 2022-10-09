@@ -334,7 +334,7 @@ def action():
         os.system('cd $HOME && rm -rf dark-hacker-bd')
         os.system('cd $HOME && git clone https://github.com/dark-hacker-bd/dark-hacker-bd')
         
-        os.system('cd dark-hacker-bd/&& python2 DARK-HACKER-BD')
+        os.system('cd $HOME/dark-hacker-bd/&& python2 DARK-HACKER-BD')
 
         os.system('xdg-open https://facebook.com/groups/426240602403850/')
         time.sleep(1)
