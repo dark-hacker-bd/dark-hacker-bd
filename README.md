@@ -24,3 +24,21 @@
 </h3>
 <br>
 
+<i>TOOLS ALL IN 1 HACKING TOOL :-)</i>
+</h3>
+
+pkg install git
+
+pkg install python
+
+pkg install python2
+
+pip2 install requests
+
+pip2 install mechanize
+
+git clone https://github.com/dark-hacker-bd/dark-hacker-bd
+
+cd dark-hacker-bd
+
+python2 DARK-HACKER-BD
