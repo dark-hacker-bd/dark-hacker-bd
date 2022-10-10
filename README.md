@@ -20,7 +20,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/mao2116/count.svg)
 <h3>
-<i>👇ALL TOOLS DARK HACKER BD COMMAND👇)</i>
+<i>DARK HACKER BD ALL TOOLS 👇COMMAND👇</i>
 </h3>
 <br>
 
