@@ -20,11 +20,11 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/mao2116/count.svg)
 <h3>
-<i>TOOLS FROM DARK HACKER BD :-)</i>
+<i>👇ALL TOOLS DARK HACKER BD COMMAND 👇 :-)</i>
 </h3>
 <br>
 
-<i>TOOLS ALL IN 1 HACKING TOOL :-)</i>
+
 </h3>
 
 pkg install git
