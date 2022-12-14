@@ -18,7 +18,6 @@
 </h4>
 
 
-![Visitor Count](https://profile-counter.glitch.me/mao2116/count.svg)
 
 
 
@@ -53,7 +52,8 @@ Here are some ideas to get you started:
 
 > MY PROFILE VISITORS :
 
-![Visitor Count](https://profile-counter.glitch.me/Naim75o/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/mao2116/count.svg)
+
 
 - ![Profile views](https://gpvc.arturio.dev/Naim75o)
 - [![GitHub followers](https://img.shields.io/github/followers/Naim75o.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/Naim75o?tab=followers)
