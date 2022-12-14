@@ -69,8 +69,8 @@ Here are some ideas to get you started:
 <p align="left">
 
 
-<a href="https://fb.com/Naim.Vau80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="30" width="40" /></a>
-<a href="https://instagram.com/FLAME NAIM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/md_niloy_48/" height="30" width="40" /></a>
+<a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="40" width="50" /></a>
+
 
 
 
