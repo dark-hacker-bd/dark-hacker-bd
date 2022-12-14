@@ -76,7 +76,7 @@ dark boy fb <a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img
 
 
 
-![](https://img.shields.io/badge/<N1LOY_V4U>-<niloy0-H4CK3R>-informational?style=flat&logo=data:image/svg%2bxml;base64,<BASE64_DATA>)
+
 
 <img src="https://github.com/Voyz/voyz_public/blob/master/databay_promo_vidA_gif_A03.gif" alt="Databay showcase gif" title="Databay showcase gif" width="500"/>
 
