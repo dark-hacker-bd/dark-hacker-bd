@@ -54,6 +54,15 @@ Here are some ideas to get you started:
 - [![GitHub followers](https://img.shields.io/github/followers/dark-hacker-bd.svg?style=social&label=Follow&maxAge=0090900)](https://github.com/dark-hacker-bd?tab=followers)
 
 
+
+
+<a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="40" width="50" /></a>
+
+
+
+
+
+
 > GITHUB STATES :
 
 <a href="https://github.com/dark-hacker-bd"><img width=550 src="https://github-profile-trophy.vercel.app/?username=niloy0&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
@@ -69,7 +78,6 @@ Here are some ideas to get you started:
 <p align="left">
 
 
-<a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="NILOY.VAU.6" height="40" width="50" /></a>
 
 
 
