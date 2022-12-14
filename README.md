@@ -133,7 +133,7 @@ dark boy fb <a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img
 </h3>
 <br>
 
-
+![main command](https://img.shields.io/badge/-Python-000?&logo=Python)
 </h3>
 
 pkg install git
