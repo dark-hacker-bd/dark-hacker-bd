@@ -73,9 +73,6 @@ dark boy fb <a href="https://fb.com/dark.hacker.bd.dark.boy" target="blank"><img
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
-> CONTACT WITH ME :
-
-<p align="left">
 
 
 
