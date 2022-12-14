@@ -74,7 +74,6 @@ Here are some ideas to get you started:
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/niloy0) <a href="https://github.com/niloy0"></a>
 
 </p>
 
